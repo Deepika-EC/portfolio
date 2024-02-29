@@ -1,0 +1,65 @@
+nav{
+    background-color: #030303;
+}
+.home{
+    background-color: #081b29;
+    /* box-shadow: #dfdddd; */
+}
+
+.about{
+    background-color:#081b29;
+    border: #030303;
+    border-radius: 2px solid #070707;
+    cursor: pointer;
+}
+.edu{
+    background-color:#081b29;
+    cursor: pointer;
+}
+.exp{
+    background-color:#081b29;
+    cursor: pointer;
+}
+.skill{
+    background-color:#081b29;
+    cursor: pointer;
+    padding: 10px;
+}
+.pro{
+    background-color:#081b29;
+    cursor: pointer;
+}
+.con{
+    background-color:#081b29;
+    cursor: pointer;
+}
+.img-fluid{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    margin: 20px;
+}
+.img-fluid:hover{
+    border: 6px solid rgb(250, 73, 3);
+}
+.img-hover:hover {
+    opacity: 0.7;
+    cursor: pointer;
+  }
+.image{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 10%;
+    background-color:white;
+    padding: 20px;
+    cursor: pointer;
+}
+.image:hover{
+    background-color:teal ;
+}
+.nav-link:hover {
+    border-bottom: 2px solid rgb(250, 73, 3);
+}
+  
